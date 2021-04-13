@@ -1,1 +1,5 @@
-HELLO 2.
+<<<<<<< HEAD
+HElO 2.
+ friend
+
+>>>>>>> developer_C8312_Umit
